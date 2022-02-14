@@ -2,24 +2,21 @@
 
 **Supervisor** - is a client/server system that allows its users to monitor and control a number of processes on UNIX-like operating systems.
 
-[*Documentation*](http://supervisord.org/)
+####  [*Documentation*](http://supervisord.org/)
 
-[*Github*](https://github.com/Supervisor/supervisor)
+#### [*Github*](https://github.com/Supervisor/supervisor)
 
 ---
 
 ## Table of content
 
-- [Supervidor](#supervidor)
-  - [Table of content](#table-of-content)
-  - [Cheet sheets](#cheet-sheets)
-    - [Installing](#installing)
-    - [Config file](#config-file)
-    - [Update service configurations](#update-service-configurations)
-    - [Service status](#service-status)
-    - [Service start](#service-start)
-    - [Service stop](#service-stop)
-    - [Service restart](#service-restart)
+* [Installing](#installing)
+* [Config file](#config-file)
+* [Update service configurations](#update-service-configurations)
+* [Service status](#service-status)
+* [Service start](#service-start)
+* [Service stop](#service-stop)
+* [Service restart](#service-restart)
 
 ---
 
