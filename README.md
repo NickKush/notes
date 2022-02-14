@@ -1,2 +1,8 @@
 # notes
-A repo for my personal notes. [Russian/English]
+
+Мои персональные заметки на различные технологии.
+
+---
+
+## Оглавление
+*TBA*
