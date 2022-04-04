@@ -11,3 +11,4 @@
 ## Useful commands
 
 * **[Change history](/git/change-history.md)** - change email/username in git log history
+* **[Clean branches](/git/clean-branches.md)** - clean outdates branches
