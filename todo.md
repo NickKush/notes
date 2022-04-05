@@ -4,7 +4,7 @@
 
 ### Технологии:
   * [ ] Docker
-  * [ ] Bash
+  * [~] Bash
   * [ ] Markdown
 
 ---
