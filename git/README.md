@@ -8,7 +8,8 @@
 
 ---
 
-## Useful commands
+## Useful stuff
 
+* **[SSH setup](/git/ssh.md)** - Setup ssh for git
 * **[Change history](/git/change-history.md)** - change email/username in git log history
 * **[Clean branches](/git/clean-branches.md)** - clean outdates branches
