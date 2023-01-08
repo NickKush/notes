@@ -29,7 +29,7 @@ Host github.com
 ### Add public key to your github account
 
 ```console
-cat ~/.ssh/github
+cat ~/.ssh/github.pub
 ```
 
 Copy public key and add it in settings `https://github.com/settings/keys`
