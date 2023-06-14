@@ -32,5 +32,5 @@ Host github.com
 cat ~/.ssh/github.pub
 ```
 
-Copy public key and add it in settings `https://github.com/settings/keys`
+Copy public key and add it in settings (ex: `https://github.com/settings/keys`)
 
